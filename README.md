@@ -55,7 +55,6 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 - [**Market Performance vs Target.pdf**](Market%20Performance%20vs%20Target.pdf): Comparison of market performance against sales targets.
 - [**New Products 2021.pdf**](New%20Products%202021.pdf): Analysis of products launched in 2021.
 - [**P&L by Fiscal Months.pdf**](P%26L%20by%20Fiscal%20Months.pdf): Profit and Loss report broken down by fiscal months.
-- [**P&L by Fiscal Year.pdf**](P%26L%20by%20Fiscal%20Year.pdf): Profit and Loss report for the entire fiscal year.
 - [**P&L for Market.pdf**](P%26L%20for%20Market.pdf): Profit and Loss report by different markets.
 - [**Top & Bottom 5 Products.pdf**](Top%20%26%20Bottom%205%20Products.pdf): Analysis of the top and bottom 5 products by quantity sold.
 
